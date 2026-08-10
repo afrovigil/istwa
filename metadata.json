@@ -1,0 +1,6 @@
+{
+  "name": "ISTWAMONITOR",
+  "description": "Gestion du plan de travail et des interactions de l'équipe ISTWA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
